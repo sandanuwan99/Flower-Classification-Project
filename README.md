@@ -1,4 +1,7 @@
 # Flower-Classification-Project
+
+https://github.com/sandanuwan99/Flower-Classification-Project/assets/154718884/a8a0a27e-a19d-4a26-bcd7-beaed63c7b1f
+
 I'm excited to share a recent project where we leveraged deep learning to create a flower classification model. This project is a significant step forward in applying artificial intelligence to image recognition, and it was both a challenging and rewarding experience.
 
 Project Overview:
@@ -23,7 +26,6 @@ I'm proud of the hard work and dedication that went into this project. Feel free
 
 
 
-https://github.com/sandanuwan99/Flower-Classification-Project/assets/154718884/a8a0a27e-a19d-4a26-bcd7-beaed63c7b1f
 
 
 
